@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is boburjon
 ================================================================================================================================
 
-back-end developer
+front-end developer
 ------------------
 
 I srtarted developing at 15 years old. One of my goals is to become a back-end developer
