@@ -9,7 +9,7 @@ I srtarted developing at 15 years old. One of my goals is to become a back-end d
 * 🌍  I'm based in Ferghana
 * ✉️  You can contact me at [boburshurmatow@gmail.com](mailto:boburshurmatow@gmail.com)
 * 🧠  I'm learning python, c, html,css
-* 🤝  I'm open to collaborating on qiziqarli loyihalar
+* 🤝  I'm open to collaborating on interesting projects
 * ⚡  Men Andijon viloyati Bo'ston tumani da istiqomat qilaman
 
 ### Skills
